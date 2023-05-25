@@ -21,7 +21,7 @@ footer {
 }
 
 .a {
-  background-image: url("./images/tom2.png");
+  background-image: url("images/tom2.png");
 }
 
 .s {
@@ -41,7 +41,7 @@ footer {
 }
 
 .l {
-  background-image: url(./images/kick.png);
+  background-image: url('images/kick.png');
 }
 
 .set {
